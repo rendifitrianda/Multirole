@@ -64,7 +64,7 @@
                             <th>No</th>
                             <th width="100px">Aksi</th>
                             <th>NIP</th>
-                            <th>Nama</th>
+                            <th>Nama pegawai</th>
                         </thead>
                         <tbody>
                             @foreach ($module->role as $role)
